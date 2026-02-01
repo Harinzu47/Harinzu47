@@ -31,8 +31,19 @@ I am a passionate IT professional and a Computer Science graduate who loves brid
 ---
 
 ## 📊 My GitHub Stats
-![Harinzu47's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harinzu47&layout=compact&theme=radical)
+
+<p align="left">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical" alt="Harinzu47 Stats" height="150" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinzu47&theme=radical" alt="Harinzu47 Streak" height="150" />
+</p>
+
+### 🛠️ Skills & Tech Stack
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,git,github,vscode,postman,pnpm" />
+  </a>
+</p>
 
 ---
 
