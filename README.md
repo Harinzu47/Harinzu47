@@ -1,14 +1,44 @@
-## Hallo Semua
+# Hi there, I'm Khalid Jundullah 👋 (aka Harinzu47)
 
-Perkenalkan Semua Saya Khalid Jundullah!!  
-Saya adalah seorang mahasiswa di univeristas muhammadiyah jakarta    
-saya berkuliah di jurusan Teknik Informatika  
-saya bercita cita menjadi seorang web developer  
-ingin kenal dengan saya lebih jauh silahkan follow saya di ig @khalid.jundullah  
+### IT Project Officer | Web Developer | DevOps Enthusiast
 
-<p align="left">
-<a href="https://github.com/Harinzu47">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=gilangadhan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gilangadhan&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+I am a passionate IT professional and a Computer Science graduate who loves bridging the gap between technical execution and strategic project management. Recognized as the **Best Graduate of the Faculty of Engineering** (Class of 2021) at Muhammadiyah University of Jakarta, I bring a mix of academic excellence and hands-on industry experience.
+
+---
+
+## 🚀 About Me
+- 💼 Currently working as an **IT Project Officer Intern** at **Proxsis Biztech Global**.
+- 🛠️ Experienced in managing complex IT projects like ITSM Dashboards, Finance Applications (SYFA), and B2B Supply Systems.
+- 🎓 First graduate of the 2021 cohort with a focus on Efficiency and Innovation.
+- 🌱 Currently deep-diving into **DevOps** and **Data Science** to scale my technical stack.
+
+---
+
+## 🛠️ My Tech Stack
+- **Languages:** PHP, JavaScript (ES6+), C, SQL
+- **Frameworks:** Laravel, Node.js, React.js
+- **Tools & Platforms:** Odoo, ClickUp, Git, GitHub, Google Workspace
+- **Project Management:** Agile, Scrum, Functional Specification Documentation (FSD), Workload Analysis (WLA)
+
+---
+
+## 📈 Recent Projects & Contributions
+- **Custom iTop ITSM Dashboard** – Developing tailored solutions for industrial clients like Krakatau Steel.
+- **Lo-Stock Application** – Designing a B2B supply system for the Horeca industry.
+- **WLA MRT Jakarta** – Managing workload analysis projects for urban transportation systems.
+- **Larvago & Sugar Control** – Personal projects focusing on e-commerce and health-tech solutions.
+
+---
+
+## 📊 My GitHub Stats
+![Harinzu47's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Harinzu47&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+- **LinkedIn:** [linkedin.com/in/khalidjundullah](www.linkedin.com/in/khalid-jundullah-8086b8249) 
+- **Phone:** +62 812-8335-3308
+- **Email:** [harinzu47@gmail.com]
+
+*"Turning complex problems into organized, scalable digital solutions."*
