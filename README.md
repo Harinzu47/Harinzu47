@@ -41,11 +41,16 @@ I am a passionate IT professional and a Computer Science graduate who loves brid
 ### Core Skills
 [![My Skills](https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,git,github,vscode,postman,pnpm,figma,notion)](https://skillicons.dev)
 
-### 🚀 On Progress: DevOps Roadmap
-- [ ] **Docker & Containerization** (Basic Containerizing Apps)
-- [ ] **CI/CD Pipelines** (GitHub Actions / GitLab CI)
-- [ ] **Cloud Infrastructure** (AWS/GCP Basics)
-- [ ] **Infrastructure as Code** (Terraform/Ansible)
+---
+
+## 🏗️ Learning Path: System Design & Architecture
+*Currently leveling up from "How to Code" to "How to Scale"*
+
+- [ ] **Scalability Patterns** (Vertical vs Horizontal Scaling, Load Balancing)
+- [ ] **Database Design** (Indexing, Sharding, Replication, NoSQL vs SQL)
+- [ ] **Communication Protocols** (REST, GraphQL, gRPC, WebSockets)
+- [ ] **Caching Strategies** (Redis, CDN, Browser Caching)
+- [ ] **System Components** (Rate Limiters, Message Queues/Kafka, API Gateways)
 
 ---
 
@@ -53,21 +58,6 @@ I am a passionate IT professional and a Computer Science graduate who loves brid
 <p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinzu47&theme=radical" height="150" />
-</p>
-
----
-
-## 📊 My GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical" alt="Harinzu47 Stats" height="150" />
-</p>
-
-### 🛠️ Skills & Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,git,github,vscode,postman,pnpm" />
-  </a>
 </p>
 
 ---
