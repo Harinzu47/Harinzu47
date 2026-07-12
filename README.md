@@ -21,12 +21,6 @@
 </div>
 
 <br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinzu47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
-
 ---
 
 ## 🛠️ My Tech Stack
