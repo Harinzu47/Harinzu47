@@ -1,21 +1,32 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Khalid+Jundullah+👋;IT+Project+Officer;Fullstack+Web+Developer;DevOps+%26+Data+Science+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=2196F3&center=true&vCenter=true&width=800&lines=Hi+there,+I'm+Khalid+Jundullah+👋;IT+Project+Officer;Fullstack+Web+Developer;Linux+%26+DevOps+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
   <em>"Turning complex problems into organized, scalable digital solutions."</em>
 </p>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/DevOps-008ECF?style=for-the-badge&logo=devops&logoColor=white" alt="DevOps" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+</div>
+
 ---
 
-## 🚀 About Me
+## 🏆 GitHub Trophies & Contributions
 
-I am a passionate IT professional and Computer Science graduate who loves bridging the gap between technical execution and strategic project management. I bring a mix of academic excellence and hands-on industry experience.
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Harinzu47&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
-* 💼 **Current Role:** IT Project Officer Intern at **Proxsis Biztech Global**.
-* 🛠️ **Experience:** Managing complex IT projects including ITSM Dashboards, Finance Applications (SYFA), and B2B Supply Systems.
-* 🎓 **Achievement:** Best Graduate of the Faculty of Engineering (Class of 2021) at Muhammadiyah University of Jakarta.
-* 🌱 **Currently Learning:** Deep-diving into **DevOps** and **Data Science** to scale my technical stack.
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinzu47&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+</div>
 
 ---
 
@@ -23,43 +34,21 @@ I am a passionate IT professional and Computer Science graduate who loves bridgi
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,nodejs,mysql,git,github,vscode,postman,pnpm,figma,notion&perline=14" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=linux,docker,bash,ubuntu,php,laravel,js,react,nodejs,mysql,git,github,vscode,postman&perline=14" alt="My Skills" />
   </a>
 </div>
 
 ---
 
-## 📅 Professional Experience & Projects
+## 🏗️ Learning Path: DevOps & System Architecture
 
-| Period | Project / Role | Key Contributions |
-| :--- | :--- | :--- |
-| **Jan 2026 - Present** | **IT Project Officer** @ Proxsis | Managing **Proxsis Legal** (Lawyer App) & **Lo-Stock** (B2B Horeca) focusing on FSD & Work Plans. |
-| **Jan 2026** | **AccountHub** | Streamlining management tasks for KAM Management. |
-| **Dec 2025** | **ITSM Dashboard** | Developing custom iTop dashboard for **Krakatau Steel**. |
-| **Dec 2025** | **WLA MRT Jakarta** | Leading Workload Analysis reporting and data processing. |
-| **Nov 2025** | **MeetingDoc & SYFA** | Developing meeting management tools and finance applications. |
-| **Oct 2025** | **Curriculum Developer** | Designed educational paths for coding and tech stacks. |
+*Currently leveling up from "How to Code" to "How to Scale & Deploy"*
 
----
-
-## 🏗️ Learning Path: System Design & Architecture
-
-*Currently leveling up from "How to Code" to "How to Scale"*
-
-* [ ] **Scalability Patterns:** Vertical vs Horizontal Scaling, Load Balancing
-* [ ] **Database Design:** Indexing, Sharding, Replication, NoSQL vs SQL
-* [ ] **Communication Protocols:** REST, GraphQL, gRPC, WebSockets
-* [ ] **Caching Strategies:** Redis, CDN, Browser Caching
-* [ ] **System Components:** Rate Limiters, Message Queues (Kafka), API Gateways
-
----
-
-## 📈 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical&hide_border=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harinzu47&layout=compact&theme=radical&hide_border=true" height="150" alt="Top Languages" />
-</div>
+* [ ] **Linux Mastery:** Shell Scripting (Bash), System Monitoring, User & Permission Management
+* [ ] **Containerization:** Docker, Docker Compose
+* [ ] **Scalability Patterns:** Vertical vs Horizontal Scaling, Nginx Reverse Proxy / Load Balancing
+* [ ] **CI/CD Pipelines:** GitHub Actions, GitLab CI
+* [ ] **System Components:** Message Queues, API Gateways
 
 ---
 
@@ -71,8 +60,5 @@ I am a passionate IT professional and Computer Science graduate who loves bridgi
   </a>
   <a href="mailto:harinzu47@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://wa.me/6281283353308">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </div>
