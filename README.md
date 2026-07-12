@@ -14,18 +14,17 @@
 
 ---
 
-## 🏆 GitHub Trophies & Contributions
+## 📊 GitHub Stats & Streaks
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Harinzu47&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harinzu47&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harinzu47&theme=radical&hide_border=true&area=true" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Harinzu47&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harinzu47&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
